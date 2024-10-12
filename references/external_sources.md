@@ -1,0 +1,1 @@
+Thông tin về các nguồn dữ liệu bên ngoài

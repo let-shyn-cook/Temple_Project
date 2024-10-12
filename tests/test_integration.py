@@ -1,0 +1,1 @@
+Kiểm tra tích hợp cho chức năng tổng thể

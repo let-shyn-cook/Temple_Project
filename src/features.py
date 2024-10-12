@@ -1,0 +1,1 @@
+Mã để tạo các đặc trưng cho mô hình
